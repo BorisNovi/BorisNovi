@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer</h3>
 <div align="center">
 
-### 📩 How to contact me: just send email to: <borisnovikov4815@gmail.com>
+#### 📩 How to contact me: just send email to: <borisnovikov4815@gmail.com>
 
 
 ## My technology stack
