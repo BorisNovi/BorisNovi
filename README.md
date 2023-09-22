@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<h1 align="center">Hi there, I'm Boris
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Frontend Developer</h3>
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BorisNovi&show_icons=true&theme=transparent)
