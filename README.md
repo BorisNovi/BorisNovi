@@ -3,7 +3,9 @@
 <h3 align="center">Frontend Developer</h3>
 <div align="center">
 
-## Technology stack
+
+## My technology stack
+
 
 **Front-end**
 
@@ -14,7 +16,9 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 **Frameworks**
+
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
 
 **Tools**
 
