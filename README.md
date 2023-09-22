@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer</h3>
 <div align="center">
 
-[![Gmail Badge](https://img.shields.io/badge/-borisnovikov4815@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:borisnovikov4815.mv@gmail.com)](mailto:borisnovikov4815@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-borisnovikov4815@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:borisnovikov4815@gmail.com)](mailto:borisnovikov4815@gmail.com)
 
 
 ## My technology stack
